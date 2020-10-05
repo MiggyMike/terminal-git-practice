@@ -17,3 +17,7 @@ code solutions.md
 git add solutions.md
 
 git add solutions.md -p
+
+git remote add origin https://github.com/MiggyMike/terminal-git-practice.git
+
+mkdir ~/ga
