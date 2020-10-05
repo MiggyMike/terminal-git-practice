@@ -21,3 +21,7 @@ git add solutions.md -p
 git remote add origin https://github.com/MiggyMike/terminal-git-practice.git
 
 mkdir ~/ga
+
+cd ga
+
+ga mkdir week1 week2 week3 week4 week5 week6 week7 week8 week9 week10 week11 week12
